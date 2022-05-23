@@ -6,6 +6,7 @@
 - This is a simple sample of text string.
 
 
-###  Verion History
+###  Version History
 
 	* First commmit Change - fernando.pucci
+	* Change by Fernando Pucci @ 23-05-2022,14:42
